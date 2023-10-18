@@ -8,7 +8,7 @@
 
 calculadoraareacircunferencia
 
-![Calculadora Área de Circunferência em LPP | Português Estruturado | Portugol | Potigol | Metalinguagem | Pseudocódigo](calcularaareacircunferencia.jpg) <br><br>
+![Calculadora Área de Circunferência em LPP | Português Estruturado | Portugol | Potigol | Metalinguagem | Pseudocódigo](calculadoraareacircunferencia.jpg) <br><br>
 
 Autor: Erick Leite Freire<br>
 Criado em: 15-10-2023<br>
